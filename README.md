@@ -1,4 +1,4 @@
-# argparsex - Extention to argparse to handle defaults better
+# argparsex - Extension to argparse to better handle default values
 
 ## Installation
 
